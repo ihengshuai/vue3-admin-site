@@ -1,0 +1,1 @@
+import{a as e}from"./index.5h-3Xw.js";import{d as o,k as r}from"./vue-7gvYSAcJ.js";import"./antd-YRqhz1gO.js";const m=o({setup(){const{t}=e();return()=>r("div",null,[t("menu.chart")])}});export{m as default};
