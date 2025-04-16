@@ -1,0 +1,1 @@
+import{u as e}from"./index.CEonpp.js";import{d as o,k as r}from"./vue-UTE1kp6n.js";import"./antd-BxrVNHXA.js";import"./echart-BXjyhBDT.js";const p=o({setup(){const{t}=e();return()=>r("div",null,[t("menu.chart")])}});export{p as default};

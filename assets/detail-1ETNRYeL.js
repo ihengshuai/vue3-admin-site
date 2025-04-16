@@ -1,0 +1,1 @@
+import{I as e}from"./index-B1dfQciw.js";import{d as t,k as a,G as o}from"./vue-UTE1kp6n.js";import"./antd-BxrVNHXA.js";import"./index.CEonpp.js";import"./echart-BXjyhBDT.js";import"./dom-Bbh55-P0.js";const n=t({name:"TableDetailPage",setup(){return()=>a(e,null,{default:()=>[o("表格详情页...")]})}});export{n as default};
